@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-16T18:45:47 UYT" name="tests.Tests" finished-at="2022-02-16T18:46:33 UYT" duration-ms="45836">
+    <groups>
+    </groups>
+    <test started-at="2022-02-16T18:45:47 UYT" name="Command line test" finished-at="2022-02-16T18:46:33 UYT" duration-ms="45836">
+      <class name="tests.Tests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Tests@36fc695d]" started-at="2022-02-16T18:45:47 UYT" name="setUp" finished-at="2022-02-16T18:46:00 UYT" duration-ms="12537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="pruebaDos()[pri:0, instance:tests.Tests@36fc695d]" started-at="2022-02-16T18:46:00 UYT" name="pruebaDos" finished-at="2022-02-16T18:46:12 UYT" duration-ms="11992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaDos -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Tests@36fc695d]" started-at="2022-02-16T18:46:12 UYT" name="tearDown" finished-at="2022-02-16T18:46:12 UYT" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Tests@36fc695d]" started-at="2022-02-16T18:46:12 UYT" name="setUp" finished-at="2022-02-16T18:46:22 UYT" duration-ms="10229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="pruebaUno()[pri:0, instance:tests.Tests@36fc695d]" started-at="2022-02-16T18:46:22 UYT" name="pruebaUno" finished-at="2022-02-16T18:46:29 UYT" duration-ms="6572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaUno -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Tests@36fc695d]" started-at="2022-02-16T18:46:29 UYT" name="tearDown" finished-at="2022-02-16T18:46:33 UYT" duration-ms="4199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- tests.Tests -->
+</testng-results>
